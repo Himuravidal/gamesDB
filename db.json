@@ -97,31 +97,6 @@
             "background_image": "https://media.rawg.io/media/games/bc0/bc06a29ceac58652b684deefe7d56099.jpg",
             "rating": 4.39,
             "metacritic": 96
-        },
-        {
-            "id": 13537,
-            "name": "Half-Life 2",
-            "released": "2004-11-16",
-            "background_image": "https://media.rawg.io/media/games/b8c/b8c243eaa0fbac8115e0cdccac3f91dc.jpg",
-            "rating": 4.49,
-            "rating_top": 5,
-            "metacritic": 96
-        },
-        {
-            "id": 1030,
-            "name": "Limbo",
-            "released": "2010-07-21",
-            "background_image": "https://media.rawg.io/media/games/929/9295e55ce69cf5337c567983cf8b4137.jpeg",
-            "rating": 4.16,
-            "metacritic": 88
-        },
-        {
-            "id": 28,
-            "name": "Red Dead Redemption 2",
-            "released": "2018-10-26",
-            "background_image": "https://media.rawg.io/media/games/511/5118aff5091cb3efec399c808f8c598f.jpg",
-            "rating": 4.57,
-            "metacritic": 96
         }
     ],
     "gameDetails": [
@@ -302,49 +277,6 @@
             "genres": "Action Shooter",
             "price": 12500,
             "lastPrice": 15500,
-            "delivery": true
-        },
-        {
-            "id": 13537,
-            "name": "Half-Life 2",
-            "released": "2004-11-16",
-            "background_image": "https://media.rawg.io/media/games/b8c/b8c243eaa0fbac8115e0cdccac3f91dc.jpg",
-            "rating": 4.49,
-            "rating_top": 5,
-            "metacritic": 96,
-            "playtime": 7,
-            "platforms": "Android",
-            "genres": "Action Shooter",
-            "price": 6990,
-            "lastPrice": 9990,
-            "delivery": true
-        },
-        {
-            "id": 1030,
-            "name": "Limbo",
-            "released": "2010-07-21",
-            "background_image": "https://media.rawg.io/media/games/929/9295e55ce69cf5337c567983cf8b4137.jpeg",
-            "rating": 4.16,
-            "metacritic": 88,
-            "playtime": 3,
-            "platforms": "PC",
-            "genres": "Action Adventure",
-            "price": 8990,
-            "lastPrice": 15990,
-            "delivery": true
-        },
-        {
-            "id": 28,
-            "name": "Red Dead Redemption 2",
-            "released": "2018-10-26",
-            "background_image": "https://media.rawg.io/media/games/511/5118aff5091cb3efec399c808f8c598f.jpg",
-            "rating": 4.57,
-            "metacritic": 96,
-            "playtime": 20,
-            "platforms": "PC",
-            "genres": "Action Adventure",
-            "price": 18990,
-            "lastPrice": 21990,
             "delivery": true
         }
     ]
